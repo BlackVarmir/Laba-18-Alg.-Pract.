@@ -1,0 +1,4 @@
+Ivanov 2 3 5
+Petrenko 3 1 4
+Shevchenko 5 2 4
+Tkachenko 4 4 1
